@@ -5,6 +5,11 @@ Sure, here's a sample README file for your GitHub repository:
 # CampusConnect
 
 CampusConnect is a web application that enables college clubs to post about events happening on campus. This helps students stay informed about upcoming events and activities.
+## Deployment
+
+The application is deployed at the following link:
+
+[CampusConnect Deployment](https://campus-connect-client.onrender.com/)
 
 ![CampusConnect Logo](path/to/logo.png) <!-- Update the path to the logo image -->
 
@@ -55,11 +60,7 @@ npm start
 
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Deployment
 
-The application is deployed at the following link:
-
-[CampusConnect Deployment]([https://your-deployment-link.com](https://campus-connect-client.onrender.com/)) 
 
 ## Built With
 
