@@ -11,7 +11,7 @@ The application is deployed at the following link:
 
 [CampusConnect Deployment](https://campus-connect-client.onrender.com/)
 
-![CampusConnect Logo](path/to/logo.png) <!-- Update the path to the logo image -->
+<!-- Update the path to the logo image -->
 
 ## Features
 
